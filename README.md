@@ -10,7 +10,7 @@ This work presents the control strategies applied to an AC/DC converter with pow
 
 1. DQ-transform
   
-The system is modelled in the time domain domain. However the control strategy is developed in the dq-frame due to the facility to work with continous variables instead of sinusoidal.
+The system is modelled in the time domain domain. However the control strategy is developed in the dq-frame due to the facility to work with continuous variables instead of sinusoidal waveforms.
 
 2. Frequecy-domain approach (e.g., Fuzzy Logic)
 
